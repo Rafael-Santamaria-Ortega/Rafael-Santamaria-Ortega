@@ -1,4 +1,4 @@
-🧙‍♂️ Greetings, I’m Rafael Santamaría Ortega.
+🧙‍♂️ Greetings, I’m Rafael Santamaría.
 
 👨‍💻 I am a Cyber Defense Analyst with an Honor's M.A. degree in Philosophy and over 3 years of experience in digital marketing. 
 
