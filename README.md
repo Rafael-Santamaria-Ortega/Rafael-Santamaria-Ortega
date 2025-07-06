@@ -2,9 +2,7 @@
 
 👨‍💻 I am a Software Developer Apprentice with an Honor's M.A. degree in Philosophy and over 3 years of experience in digital marketing. 
 
-🛡️ I’m passionate about leveraging my interdisciplinary knowledge to deconstruct complex threats, prioritize risks, and design innovative automated solutions to protect people and organizations. 
-
-👨‍🎓 I’m continually expanding my skillset with practical projects, while **actively looking to break into cybersecurity**.
+😁 I’m passionate about leveraging my interdisciplinary knowledge to break down complex problems, develop and implement solutions, and help people and businesses.
 
 🧠 I thrive in complex new environments, adapting quickly to perform effectively by leveraging my critical thinking, analytical abilities and problem-solving skills. 
 
