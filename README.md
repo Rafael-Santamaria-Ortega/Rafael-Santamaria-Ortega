@@ -1,13 +1,11 @@
 🧙‍♂️ Greetings, I’m Rafael Santamaría.
 
-👨‍💻 I am a Software Developer Apprentice with an Honor's M.A. degree in Philosophy and over 3 years of experience in digital marketing. 
+👨‍💻 Software Developer with an Honors M.A. in Philosophy and over 3 years of experience in complex, high-stakes, and highly regulated environments, including digital and security-adjacent domains.
 
-😁 I’m passionate about leveraging my interdisciplinary knowledge to break down complex problems, develop and implement solutions, and help people and businesses.
+🧠 I bring sharp analytical reasoning, strong problem-solving ability, and clear communication skills, allowing me to learn quickly and adapt effectively to new technical environments.
 
-🧠 I thrive in complex new environments, adapting quickly to perform effectively by leveraging my critical thinking, analytical abilities and problem-solving skills. 
+⚙️ I focus on breaking down complex systems, designing practical solutions, and building software that is reliable, maintainable, and ethically grounded.
 
-🎯 My ultimate goal is to work at the intersection of Philosophy, Programming, Cybersecurity, and AI, developing ethical, intelligent, and secure technologies for the future.
+📚 On a personal note, I am an avid D&D player and Dungeon Master. I can also answer any Middle-Earth related question and have a deep passion for 19th Century Colombian Philosphy.
 
-🔎 This is only my coding portfolio, you can paruse my full cybersecurity portfolio in my [GitHub web page](https://rafael-santamaria-ortega.github.io/) 
-
-🤝 Let’s connect! Reach out on [LinkedIn](https://www.linkedin.com/in/rafael-santamaria-ortega)
+🤝 Let’s connect! Reach out on [LinkedIn](www.linkedin.com/in/rafael-santamaria)
